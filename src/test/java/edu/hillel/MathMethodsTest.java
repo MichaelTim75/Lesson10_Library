@@ -1,4 +1,4 @@
-package edu.Hillel;
+package edu.hillel;
 
 import junit.framework.Test;
 import junit.framework.TestCase;

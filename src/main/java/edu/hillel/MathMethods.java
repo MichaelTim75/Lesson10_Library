@@ -1,4 +1,4 @@
-package edu.Hillel;
+package edu.hillel;
 
 import java.math.BigDecimal;
 
